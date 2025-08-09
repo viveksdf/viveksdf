@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Sharma
-- 👀 I’m a java developer. Mostly you find me working on REST APIs using SpringBoot and also NodeJS (Express Framework)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to work on Data Analytics and FinTech projects
+- 👀 I’m a Full Stack Developer. Mostly you find me working on REST APIs using SpringBoot, NodeJS (Express Framework) and FastAPI
+- 🌱 I’m currently learning LangChain and LangGraph
+- 💞️ I’m looking to work on Agentic AI projects
 - 📫 Mail me on viveksdf@gmail.com
 
 <!---
